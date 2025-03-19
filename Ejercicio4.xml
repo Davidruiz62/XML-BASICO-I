@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: David Ruiz
+Curso: Daw1
+Fecha: 19/03/2025
+Ejercicio 4
+-->
+<!-- Definicion de los empleados de una empresa -->
+<empresa>
+    <empleado>
+        <nombre>David</nombre>
+        <apellido>Ruiz</apellido>
+        <edad>21</edad>
+        <departamento>Ventas</departamento>
+        <cargo>Ejecutivo de ventas</cargo>
+    </empleado>
+    <empleado>
+        <nombre>Rafael</nombre>
+        <apellido>Ruiz</apellido>
+        <edad>24</edad>
+        <departamento>Finanzas</departamento>
+        <cargo>Analista financiero</cargo>
+    </empleado>
+    <empleado>
+        <nombre>Martha</nombre>
+        <apellido>Ruiz</apellido>
+        <edad>21</edad>
+        <departamento>Marketing</departamento>
+        <cargo>Especialista en redes sociales</cargo>
+    </empleado>
+</empresa>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: David Ruiz
+Curso: Daw1
+Fecha: 19/03/2025
+Ejercicio 3
+-->
+<!-- Definicion de la bibloteca -->
+<biblioteca>
+    <libro titulo="Los 88 Peldaños del Éxito" autor="Anxo Pérez Rodriguez" año="2014" />
+    <libro titulo="Un Psicólogo en tu equipo" autor="Emilio González Nosti" año="2020" />
+    <libro titulo="El monje que vendió su ferrari" autor="Robin Sharma" año="1999" />
+    <libro titulo="Pep Guardiola la metamorfosis" autor="Marí Perarnau" año="2023" />
+    <libro titulo="El poder del ahora" autor="Eckhart Tolle" año="1997" />
+</biblioteca>
